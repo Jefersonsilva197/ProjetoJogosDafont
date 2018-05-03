@@ -1,0 +1,16 @@
+C:\Users\Jeferson\Documents\Visual Studio 2010\Projects\ProjetoJogosDafont\ProjetoJogosDafont\obj\x86\Debug\ProjetoJogosDafont.Form1.resources
+C:\Users\Jeferson\Documents\Visual Studio 2010\Projects\ProjetoJogosDafont\ProjetoJogosDafont\obj\x86\Debug\ProjetoJogosDafont.Properties.Resources.resources
+C:\Users\Jeferson\Documents\Visual Studio 2010\Projects\ProjetoJogosDafont\ProjetoJogosDafont\obj\x86\Debug\ProjetoJogosDafont.csproj.GenerateResource.Cache
+C:\Users\Jeferson\Documents\Visual Studio 2010\Projects\ProjetoJogosDafont\ProjetoJogosDafont\bin\Debug\ProjetoJogosDafont.exe
+C:\Users\Jeferson\Documents\Visual Studio 2010\Projects\ProjetoJogosDafont\ProjetoJogosDafont\bin\Debug\ProjetoJogosDafont.pdb
+C:\Users\Jeferson\Documents\Visual Studio 2010\Projects\ProjetoJogosDafont\ProjetoJogosDafont\obj\x86\Debug\ProjetoJogosDafont.exe
+C:\Users\Jeferson\Documents\Visual Studio 2010\Projects\ProjetoJogosDafont\ProjetoJogosDafont\obj\x86\Debug\ProjetoJogosDafont.pdb
+C:\Users\Jeferson\Documents\Visual Studio 2010\Projects\ProjetoJogosDafont\ProjetoJogosDafont\obj\x86\Debug\ProjetoJogosDafont.csprojResolveAssemblyReference.cache
+D:\Projetos&Arquivos\Microsoft Visual Studio 2010\Projects\TRABALHOS FINALIZADOS\ProjetoJogosDafont\ProjetoJogosDafont\obj\x86\Debug\ProjetoJogosDafont.exe
+D:\Projetos&Arquivos\Microsoft Visual Studio 2010\Projects\TRABALHOS FINALIZADOS\ProjetoJogosDafont\ProjetoJogosDafont\obj\x86\Debug\ProjetoJogosDafont.pdb
+D:\Projetos&Arquivos\Microsoft Visual Studio 2010\Projects\TRABALHOS FINALIZADOS\ProjetoJogosDafont\ProjetoJogosDafont\bin\Debug\ProjetoJogosDafont.exe
+D:\Projetos&Arquivos\Microsoft Visual Studio 2010\Projects\TRABALHOS FINALIZADOS\ProjetoJogosDafont\ProjetoJogosDafont\bin\Debug\ProjetoJogosDafont.pdb
+D:\Projetos&Arquivos\Microsoft Visual Studio 2010\Projects\TRABALHOS FINALIZADOS\ProjetoJogosDafont\ProjetoJogosDafont\obj\x86\Debug\ProjetoJogosDafont.csprojResolveAssemblyReference.cache
+D:\Projetos&Arquivos\Microsoft Visual Studio 2010\Projects\TRABALHOS FINALIZADOS\ProjetoJogosDafont\ProjetoJogosDafont\obj\x86\Debug\ProjetoJogosDafont.Form1.resources
+D:\Projetos&Arquivos\Microsoft Visual Studio 2010\Projects\TRABALHOS FINALIZADOS\ProjetoJogosDafont\ProjetoJogosDafont\obj\x86\Debug\ProjetoJogosDafont.Properties.Resources.resources
+D:\Projetos&Arquivos\Microsoft Visual Studio 2010\Projects\TRABALHOS FINALIZADOS\ProjetoJogosDafont\ProjetoJogosDafont\obj\x86\Debug\ProjetoJogosDafont.csproj.GenerateResource.Cache
